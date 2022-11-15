@@ -1,4 +1,4 @@
-# Clustering-and-Dimensionality-Reduction
+# LSH-MinHash-Clustering-and-Dimensionality-Reduction
  
  ## Goal
 
